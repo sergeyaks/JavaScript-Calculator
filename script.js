@@ -18,3 +18,4 @@ function switchTheme() {
     darkMode.innerHTML = "Dark Mode 🌙";
   }
 }
+alert('Hello')
